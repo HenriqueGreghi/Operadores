@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.exe
+C:\Users\017557631\source\repos\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.deps.json
+C:\Users\017557631\source\repos\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.json
+C:\Users\017557631\source\repos\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.dll
+C:\Users\017557631\source\repos\Operadores\Operadores\bin\Debug\netcoreapp3.1\Operadores.pdb
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfo.cs
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.dll
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.pdb
+C:\Users\017557631\source\repos\Operadores\Operadores\obj\Debug\netcoreapp3.1\Operadores.genruntimeconfig.cache
